@@ -1,3 +1,9 @@
-Vendure is a modern, headless [GraphQL](https://graphql.org/)-based e-commerce framework built with [TypeScript](http://www.typescriptlang.org/) and [Node.js](https://nodejs.org)
+![vendure_github_banner (1)](https://github.com/vendure-ecommerce/.github/assets/6275952/cff8a2fb-cddc-4b57-9323-c6154140f70a)
 
-![image](https://user-images.githubusercontent.com/6275952/133785578-15fbdedd-88c8-4aad-ac32-8f67db00696b.png)
+Vendure is a modern, composable headless commerce framework built with [TypeScript](http://www.typescriptlang.org/), [GraphQL](https://graphql.org/) and [Node.js](https://nodejs.org)
+
+## Useful links
+
+- [vendure.io](https://vendure.io)
+- [Getting started docs](https://docs.vendure.io/guides/getting-started/installation/)
+- [Vendure Discord community](https://vendure.io/community)
